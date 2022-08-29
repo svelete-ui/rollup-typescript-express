@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "out-tsc",
+    "rootDir": "./"
+  }
+  ,
+  "include": ["./src/**/*.ts"],
+  "extends": "@tsconfig/node16/tsconfig.json"
+
+}
